@@ -1,5 +1,6 @@
 <?php 
 echo "string";
+echo "demo";
 require_once('db.php');
 
 extract($_POST);
